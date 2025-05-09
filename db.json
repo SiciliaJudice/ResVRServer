@@ -27,5 +27,13 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "Standard Package": "100",
+    "Whirlpool Stainless Steel": "110",
+    "KitchenAid Stainless Steel": "120",
+    "Whirlpool Built-in": "130",
+    "KitchenAid Bult-in": "140",
+    "CFG Slate": "200",
+    "Moen Genta LX": "210",
+    "Moen Align": "220"
 }
