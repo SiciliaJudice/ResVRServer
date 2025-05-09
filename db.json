@@ -2,18 +2,99 @@
     "profile": {
         "name": "typicode"
     },
-    "posts": [
+    "prices": [
         {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
+            "BP_OVM4_LVS_Appliances": [
+                {
+                    "Packages": [
+                        {
+                            "description": "Standard Package",
+                            "price": 100
+                        },
+                        {
+                            "description": "Whirlpool Stainless Steel",
+                            "price": 110
+                        },
+                        {
+                            "description": "KitchenAid Stainless Steel",
+                            "price": 120
+                        },
+                        {
+                            "description": "Whirlpool Built-in",
+                            "price": 130
+                        },
+                        {
+                            "description": "KitchenAid Bult-in",
+                            "price": 140
+                        }
+                    ],
+                    "Laundry": [
+                        {
+                            "description": "Standard",
+                            "price": 200
+                        },
+                        {
+                            "description": "Upgrade White",
+                            "price": 210
+                        },
+                        {
+                            "description": "Upgrade Radiant Silver",
+                            "price": 220
+                        }
+                    ]
+                }
+            ],
+            "BP_OVM4_LVS_Bathroom": [
+                {
+                    "Faucet": [
+                        {
+                            "description": "CFG Slate",
+                            "price": 300
+                        },
+                        {
+                            "description": "Moen Rizon",
+                            "price": 310
+                        },
+                        {
+                            "description": "Moen Genta LX",
+                            "price": 320
+                        },
+                        {
+                            "description": "Moen Align",
+                            "price": 330
+                        },
+                        {
+                            "description": "Moen Cia",
+                            "price": 340
+                        }
+                    ]
+                }
+            ],
+            "BP_OVM4_LVS_Doors": [
+                {
+
+                }
+            ],
+            "BP_OVM4_LVS_Flooring": [
+                {
+
+                }
+            ],
+            "BP_OVM4_LVS_Kitchen": [
+                {
+
+                }
+            ],
+            "BP_OVM4_LVS_Layouts": [
+                {
+
+                }
+            ],
+            "BP_OVM4_LVS_Paint": [
+                {
+
+                }
+            ]
         }
     ]
 }
