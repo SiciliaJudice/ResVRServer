@@ -1,4 +1,10 @@
 {
+	"posts": [
+		{
+			"id": 1,
+			"title": "hello"
+		}
+	],
     "profile": {
         "name": "typicode"
     },
@@ -66,6 +72,24 @@
                         {
                             "description": "Moen Cia",
                             "price": 340
+                        }
+                    ],
+                    "Tub & Shower": [
+                        {
+                            "description": "Moen Rizon",
+                            "price": 400
+                        },
+                        {
+                            "description": "Moen Genta LX",
+                            "price": 410
+                        },
+                        {
+                            "description": "Moen Align",
+                            "price": 420
+                        },
+                        {
+                            "description": "Moen Cia",
+                            "price": 430
                         }
                     ]
                 }
