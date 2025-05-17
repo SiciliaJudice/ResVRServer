@@ -99,11 +99,17 @@
 
                 }
             ],
-            "BP_OVM4_LVS_Flooring": [
-                {
-
-                }
-            ],
+			"BP_OVM4_LVS_Flooring": [
+				{
+					"Hardwood/LVP": [
+						{
+							"description": "Torlys Firm Vista",
+							"enable": false,
+							"price": 123
+						}
+					]
+				}
+			],
             "BP_OVM4_LVS_Kitchen": [
                 {
 
