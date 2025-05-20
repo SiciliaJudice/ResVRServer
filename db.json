@@ -9,355 +9,1117 @@
         "name": "typicode"
     },
     "prices": [
-        {
-            "BP_OVM4_LVS_Appliances": [
-                {
-                    "Packages": [
-                        {
-                            "description": "Standard Package",
-                            "price": 100
-                        },
-                        {
-                            "description": "Whirlpool Stainless Steel",
-                            "price": 110
-                        },
-                        {
-                            "description": "KitchenAid Stainless Steel",
-                            "price": 120
-                        },
-                        {
-                            "description": "Whirlpool Built-in",
-                            "price": 130
-                        },
-                        {
-                            "description": "KitchenAid Bult-in",
-                            "price": 140
-                        }
-                    ],
-                    "Laundry": [
-                        {
-                            "description": "Standard",
-                            "price": 200
-                        },
-                        {
-                            "description": "Upgrade White",
-                            "price": 210
-                        },
-                        {
-                            "description": "Upgrade Radiant Silver",
-                            "price": 220
-                        }
-                    ]
-                }
-            ],
-            "BP_OVM4_LVS_Bathroom": [
-                {
-                    "Faucet": [
-                        {
-                            "description": "CFG Slate",
-                            "price": 300
-                        },
-                        {
-                            "description": "Moen Rizon",
-                            "price": 310
-                        },
-                        {
-                            "description": "Moen Genta LX",
-                            "price": 320
-                        },
-                        {
-                            "description": "Moen Align",
-                            "price": 330
-                        },
-                        {
-                            "description": "Moen Cia",
-                            "price": 340
-                        }
-                    ],
-                    "Tub & Shower": [
-                        {
-                            "description": "Moen Rizon",
-                            "price": 400
-                        },
-                        {
-                            "description": "Moen Genta LX",
-                            "price": 410
-                        },
-                        {
-                            "description": "Moen Align",
-                            "price": 420
-                        },
-                        {
-                            "description": "Moen Cia",
-                            "price": 430
-                        }
-                    ]
-                }
-            ],
-            "BP_OVM4_LVS_Doors": [
-                {
-
-                }
-            ],
+		{
 			"BP_OVM4_LVS_Flooring": [
 				{
 					"Hardwood/LVP": [
 						{
 							"description": "Torlys Firm Vista",
 							"enable": false,
-							"price": 123
+							"price": 17
 						},
 						{
 							"description": "Torlys Firm Premier",
 							"enable": false,
-							"price": 123
+							"price": 19
 						},
 						{
 							"description": "Taiga Aquila",
 							"enable": false,
-							"price": 123
+							"price": 12
 						},
 						{
 							"description": "Evoke HB Donnie",
 							"enable": false,
-							"price": 123
+							"price": 15
 						},
 						{
 							"description": "Torlys Avenue",
 							"enable": false,
-							"price": 123
+							"price": 13
 						},
 						{
 							"description": "Evoke Donald",
 							"enable": false,
-							"price": 123
+							"price": 12
 						},
 						{
 							"description": "Adobe Dwell Twilight Oak Brushed",
 							"enable": false,
-							"price": 123
+							"price": 32
 						},
 						{
 							"description": "Adobe Dwell Twilight Walk Herringbone",
 							"enable": false,
-							"price": 123
+							"price": 37
 						}
 					]
 				},
 				{
 					"Carpet": [
 						{
-							"description": "Torlys Firm Vista",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Torlys Firm Premier",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Taiga Aquila",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Evoke HB Donnie",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Torlys Avenue",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Evoke Donald",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Adobe Dwell Twilight Oak Brushed",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Adobe Dwell Twilight Walk Herringbone",
-							"enable": false,
-							"price": 123
-						},
-						{
 							"description": "Beaulieu Cozy Ambiance",
 							"enable": false,
-							"price": 123
+							"price": 22
 						},
 						{
 							"description": "Beaulieu Sand Martin",
 							"enable": false,
-							"price": 123
+							"price": 20
 						},
 						{
 							"description": "Cabana Bay Stainless",
 							"enable": false,
-							"price": 123
+							"price": 20
 						},
 						{
 							"description": "Mohawk Sculptured Touch River Rocks",
 							"enable": false,
-							"price": 123
+							"price": 35
 						},
 						{
 							"description": "Cabana Bay Ecru",
 							"enable": false,
-							"price": 123
+							"price": 15
 						},
 						{
 							"description": "Mohawk Black Walnut",
 							"enable": false,
-							"price": 123
+							"price": 19
 						},
 						{
 							"description": "Mohawk Day Dream",
 							"enable": false,
-							"price": 123
+							"price": 16
 						}
 					]
 				},
 				{
 					"Tile": [
 						{
-							"description": "Torlys Firm Vista",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Torlys Firm Premier",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Taiga Aquila",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Evoke HB Donnie",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Torlys Avenue",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Evoke Donald",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Adobe Dwell Twilight Oak Brushed",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Adobe Dwell Twilight Walk Herringbone",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Beaulieu Cozy Ambiance",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Beaulieu Sand Martin",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Cabana Bay Stainless",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Mohawk Sculptured Touch River Rocks",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Cabana Bay Ecru",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Mohawk Black Walnut",
-							"enable": false,
-							"price": 123
-						},
-						{
-							"description": "Mohawk Day Dream",
-							"enable": false,
-							"price": 123
-						},
-						{
 							"description": "Calacatta Hex",
 							"enable": false,
-							"price": 123
+							"price": 13
 						},
 						{
 							"description": "Eksa Tile Classic Marble",
 							"enable": false,
-							"price": 123
+							"price": 24
 						},
 						{
 							"description": "Eksa Tile Blue Sky",
 							"enable": false,
-							"price": 123
+							"price": 18
 						},
 						{
 							"description": "Tile&Stone Terrazo Blanco",
 							"enable": false,
-							"price": 123
+							"price": 25
 						},
 						{
 							"description": "Daltile Urbanize White",
 							"enable": false,
-							"price": 123
+							"price": 22
 						},
 						{
 							"description": "Cerated Iseo Anthracite",
 							"enable": false,
-							"price": 123
+							"price": 23
 						},
 						{
 							"description": "Centura Liva Light Grey",
 							"enable": false,
-							"price": 123
+							"price": 23
 						},
 						{
 							"description": "Julian Tile Cosmo Black",
 							"enable": false,
-							"price": 123
+							"price": 23
 						}
 					]
 				}
-			],
-            "BP_OVM4_LVS_Kitchen": [
-                {
-
-                }
-            ],
-            "BP_OVM4_LVS_Layouts": [
-                {
-
-                }
-            ],
-            "BP_OVM4_LVS_Paint": [
-                {
-
-                }
-            ]
-        }
-    ]
+			]
+		},
+		{
+			"BP_OVM4_LVS_02_Bathroom": [
+				{
+					"Faucet": [
+						{
+							"description": "CFG Slate",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "Moen Rizon",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen Genta LX",
+							"enable": false,
+							"price": 13
+						},
+						{
+							"description": "Moen Align",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen Cia",
+							"enable": false,
+							"price": 8
+						}
+					]
+				},
+				{
+					"Tub & Shower": [
+						{
+							"description": "Moen Rizon",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen Genta LX",
+							"enable": false,
+							"price": 13
+						},
+						{
+							"description": "Moen Align",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen Cia",
+							"enable": false,
+							"price": 8
+						}
+					]
+				},
+				{
+					"Hardware": [
+						{
+							"description": "Method",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "Align",
+							"enable": false,
+							"price": 5
+						}
+					]
+				},
+				{
+					"Plumbing Material": [
+						{
+							"description": "Chrome",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "Black Matte",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Brushed Gold",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "Brushed Nickel",
+							"enable": false,
+							"price": 14
+						}
+					]
+				},
+				{
+					"Hardware Material": [
+						{
+							"description": "Chrome",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "Matte Black",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Oil Rubbed Bronze",
+							"enable": false,
+							"price": 17
+						}
+					]
+				},
+				{
+					"Backsplash": [
+						{
+							"description": "Tierra Sol PIetra Gray",
+							"enable": false,
+							"price": 22
+						},
+						{
+							"description": "Tierra Sol Mestizaje",
+							"enable": false,
+							"price": 20
+						},
+						{
+							"description": "Atlas Calacatta",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Atlas Nero Marquina",
+							"enable": false,
+							"price": 19
+						},
+						{
+							"description": "Atlas Snow White",
+							"enable": false,
+							"price": 16
+						},
+						{
+							"description": "MGS Maple White",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Boardwalk Series Glossy White",
+							"enable": false,
+							"price": 29
+						},
+						{
+							"description": "Hanstone Quartz Brava Marfil",
+							"enable": false,
+							"price": 28
+						}
+					]
+				},
+				{
+					"Sink": [
+						{
+							"description": "Undermount",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Wicker Park Vessel Sink",
+							"enable": false,
+							"price": 23
+						}
+					]
+				},
+				{
+					"Toilet": [
+						{
+							"description": "Gerber Blaze Two-piece",
+							"enable": false,
+							"price": 22
+						},
+						{
+							"description": "Gerber One-Piece CT21-019",
+							"enable": false,
+							"price": 25
+						},
+						{
+							"description": "Gerber One-piece 21-187-CT",
+							"enable": false,
+							"price": 26
+						}
+					]
+				},
+				{
+					"Cabinets": [
+						{
+							"description": "Satin White",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Palomino Oak",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "Dark Grey",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "Mysterious Blue Matte",
+							"enable": false,
+							"price": 21
+						},
+						{
+							"description": "Stone Grey",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "First Class",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Rift White Oak",
+							"enable": false,
+							"price": 14
+						},
+						{
+							"description": "Haze Matte",
+							"enable": false,
+							"price": 10
+						}
+					]
+				},
+				{
+					"Counterop": [
+						{
+							"description": "Atlas Calacatta Grivola",
+							"enable": false,
+							"price": 23
+						},
+						{
+							"description": "Atlas Granite Volkas White",
+							"enable": false,
+							"price": 26
+						},
+						{
+							"description": "UGM Maple White",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Atlas Nero Marquina",
+							"enable": false,
+							"price": 19
+						},
+						{
+							"description": "Alaskino Quartz",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Calacatta Roma Quartz",
+							"enable": false,
+							"price": 21
+						},
+						{
+							"description": "Calacatta Arctic Quartz",
+							"enable": false,
+							"price": 23
+						},
+						{
+							"description": "Mykanos Quartz",
+							"enable": false,
+							"price": 14
+						}
+					]
+				}
+			]
+		},
+		{
+			"BP_OVM4_LVS_Doors": [
+				{
+					"Door Profile": [
+						{
+							"description": "Carrara",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "Riverside",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "6 Panel",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "Cheyenne",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Camden",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "Berkley",
+							"enable": false,
+							"price": 7
+						}
+					]
+				},
+				{
+					"Door Handle": [
+						{
+							"description": "Grapevine",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "Westley",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "Montreal",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Halifax",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "Singapore",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "Avalon",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "Prague Knob",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Prague Lever",
+							"enable": false,
+							"price": 12
+						}
+					]
+				},
+				{
+					"Door Hardware Material": [
+						{
+							"description": "Satin Nickel",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "Iron Black",
+							"enable": false,
+							"price": 10
+						}
+					]
+				}
+			]
+		},
+		{
+			"BP_OVM4_LVS_Paint": [
+				{
+					"Wall Paint": [
+						{
+							"description": "Dove's Wing",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Melting Glacier",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Felicity",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Beryl Pearl",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Snow Glory",
+							"enable": false,
+							"price": 10
+						}
+					]
+				},
+				{
+					"Trim Paint": [
+						{
+							"description": "Standard White",
+							"enable": false,
+							"price": 14
+						},
+						{
+							"description": "Summit",
+							"enable": false,
+							"price": 6
+						}
+					]
+				}
+			]
+		},
+		{
+			"BP_OVM4_LVS_LightFixtures": [
+				{
+					"Island Pendant": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "IPL759A01BK",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "IPL1056A01BK",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "478P11-MB-BN",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "IPL1078A01BK",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "PAO-131P-PC",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "IPL1150A01BK",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "EC1264BBS",
+							"enable": false,
+							"price": 9
+						}
+					]
+				},
+				{
+					"Nook": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "CLN-266C-MB",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "OFE-201P-GRY",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "52304NI",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "6015-6MB",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "43995NI",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "AC11766VB",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "PHO-4050LEDHP-AGB",
+							"enable": false,
+							"price": 17
+						}
+					]
+				},
+				{
+					"Flushmount": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "DL11C22FCBKC",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "CFLEDR10-CC-GD",
+							"enable": false,
+							"price": 14
+						},
+						{
+							"description": "IFM1067A12BK",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "AC11763VB",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "LFM228A19BN",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "ISF626A03BN",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "SF515712BGCL",
+							"enable": false,
+							"price": 12
+						}
+					]
+				},
+				{
+					"Stairway": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "478-5MB-BN",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "99368A",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "SNY-1815LED-PC",
+							"enable": false,
+							"price": 14
+						},
+						{
+							"description": "HF4233-AB",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "34998NI",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "AC11768VB",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "488P8-3R-MB",
+							"enable": false,
+							"price": 11
+						}
+					]
+				},
+				{
+					"Vanity": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "IVL745A03BKG",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "55102BK",
+							"enable": false,
+							"price": 7
+						},
+						{
+							"description": "VL280563WHCH",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "VL5783NG",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "VL505125MBOP",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "VL10337BK",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "45973NI",
+							"enable": false,
+							"price": 7
+						}
+					]
+				}
+			]
+		},
+		{
+			"BP_OVM4_LVS_Layouts": [
+				{
+					"Main Floor": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Optional",
+							"enable": false,
+							"price": 8
+						}
+					]
+				},
+				{
+					"Upper Floor": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Optional",
+							"enable": false,
+							"price": 8
+						}
+					]
+				},
+				{
+					"Basement": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Suite",
+							"enable": false,
+							"price": 5
+						}
+					]
+				}
+			]
+		},
+		{
+			"BP_OVM4_LVS_Appliances": [
+				{
+					"Packages": [
+						{
+							"description": "Standard Package",
+							"enable": false,
+							"price": 16
+						},
+						{
+							"description": "Whirlpool Stainless Steel",
+							"enable": false,
+							"price": 25
+						},
+						{
+							"description": "KitchenAid Stainless Steel",
+							"enable": false,
+							"price": 26
+						},
+						{
+							"description": "Whirlpool Built-in",
+							"enable": false,
+							"price": 18
+						},
+						{
+							"description": "KitchenAid Bult-in",
+							"enable": false,
+							"price": 18
+						}
+					]
+				},
+				{
+					"Laundry": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Upgrade White",
+							"enable": false,
+							"price": 13
+						},
+						{
+							"description": "Upgrade Radiant Silver",
+							"enable": false,
+							"price": 22
+						}
+					]
+				}
+			]
+		},
+		{
+			"BP_OVM4_LVS_01_Kitchen": [
+				{
+					"Faucet": [
+						{
+							"description": "CFG Slate",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "Moen Align Spring",
+							"enable": false,
+							"price": 17
+						},
+						{
+							"description": "Moen Align",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen Genta",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen Sleek",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Moen CIA",
+							"enable": false,
+							"price": 8
+						}
+					]
+				},
+				{
+					"Faucet Material": [
+						{
+							"description": "Chrome",
+							"enable": false,
+							"price": 6
+						},
+						{
+							"description": "Black Matte",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Brushed Gold",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "Brushed Nickel",
+							"enable": false,
+							"price": 14
+						}
+					]
+				},
+				{
+					"Sink": [
+						{
+							"description": "Standard",
+							"enable": false,
+							"price": 8
+						},
+						{
+							"description": "Horizon U2",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Precis 30/70",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "Precis Single",
+							"enable": false,
+							"price": 13
+						}
+					]
+				},
+				{
+					"Sink Material": [
+						{
+							"description": "White",
+							"enable": false,
+							"price": 5
+						},
+						{
+							"description": "Coal Black",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "Anthracite",
+							"enable": false,
+							"price": 10
+						}
+					]
+				},
+				{
+					"Backsplash": [
+						{
+							"description": "Villa Centura Ocean",
+							"enable": false,
+							"price": 19
+						},
+						{
+							"description": "Statuario Herringbone Polished",
+							"enable": false,
+							"price": 30
+						},
+						{
+							"description": "Tierra Sol Fez White Glossy",
+							"enable": false,
+							"price": 27
+						},
+						{
+							"description": "Tierra Sol Flash Graphite",
+							"enable": false,
+							"price": 25
+						},
+						{
+							"description": "Centura Artisan White",
+							"enable": false,
+							"price": 21
+						},
+						{
+							"description": "Centura Artisan Moss",
+							"enable": false,
+							"price": 20
+						},
+						{
+							"description": "Boardwalk Series Glossy White",
+							"enable": false,
+							"price": 29
+						},
+						{
+							"description": "Tierra Sol Sweet Bars Olive",
+							"enable": false,
+							"price": 27
+						}
+					]
+				},
+				{
+					"Cabinets": [
+						{
+							"description": "Satin White",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Palomino Oak",
+							"enable": false,
+							"price": 12
+						},
+						{
+							"description": "Dark Grey",
+							"enable": false,
+							"price": 9
+						},
+						{
+							"description": "Mysterious Blue Matte",
+							"enable": false,
+							"price": 21
+						},
+						{
+							"description": "Stone Grey",
+							"enable": false,
+							"price": 10
+						},
+						{
+							"description": "First Class",
+							"enable": false,
+							"price": 11
+						},
+						{
+							"description": "Rift White Oak",
+							"enable": false,
+							"price": 14
+						},
+						{
+							"description": "Haze Matte",
+							"enable": false,
+							"price": 10
+						}
+					]
+				},
+				{
+					"Counterop": [
+						{
+							"description": "Atlas Calacatta Grivola",
+							"enable": false,
+							"price": 23
+						},
+						{
+							"description": "Atlas Granite Volkas White",
+							"enable": false,
+							"price": 26
+						},
+						{
+							"description": "UGM Maple White",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Atlas Nero Marquina",
+							"enable": false,
+							"price": 19
+						},
+						{
+							"description": "Alaskino Quartz",
+							"enable": false,
+							"price": 15
+						},
+						{
+							"description": "Calacatta Roma Quartz",
+							"enable": false,
+							"price": 21
+						},
+						{
+							"description": "Calacatta Arctic Quartz",
+							"enable": false,
+							"price": 23
+						},
+						{
+							"description": "Mykanos Quartz",
+							"enable": false,
+							"price": 14
+						}
+					]
+				}
+			]
+		}
+	]
 }
